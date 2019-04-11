@@ -18,13 +18,21 @@ Dr. Barsukov; TR 12:40 -- 2 pm in Physics 2000
 
 Feel free to contact me with any questions!
 
+---
 ## Supplemental materials
+**DISCLAIMER**: these are *NOT* a substitute for attending lecture or the professor's assigned readings/assignments!
+I am simply recommending resources I found useful and interesting when I was taking 40B and other related courses.
+
+
 
 ### Problem Sets
+Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
+
 * [PSet 1: Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
 
-### Theory of Gravitation
 
-#### readings
+
+### Theory of Gravitation readings
+
 * [Wiki:Gravity](https://en.wikipedia.org/wiki/Gravity)
 * [Feynman:Gravity](http://www.feynmanlectures.caltech.edu/I_07.html)
