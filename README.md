@@ -8,11 +8,12 @@ Hello all! Here you will find my Supplemental Instruction session materials for 
 
 Stephen Iota<br/>
 `siota001@ucr.edu`<br/>
-Physics 40B: *Gen. Phys. II* (Waves & Thermo)<br/>
+Physics 40B: *Gen. Phys. II* <br/>
 [Syllabus](./syllabus/2019s-p40b-syllabus.pdf)
 
 **SI Sessions**<br/>
-MWR 2 -- 3 pm in Skye 110<br/>
+TR 2 -- 3 pm in Skye 110<br/>
+W  2 -- 3 pm in Skye 108<br/>
 **Lecture**<br/>
 Dr. Barsukov; TR 12:40 -- 2 pm in Physics 2000
 
@@ -25,7 +26,7 @@ I am simply recommending resources I found useful and interesting when I was tak
 
 
 
-### Problem Sets
+### Problem sets
 Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
 
 * [PSet 1: Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
@@ -33,6 +34,11 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 
 
 ### Theory of Gravitation readings
-
 * [Wiki:Gravity](https://en.wikipedia.org/wiki/Gravity)
 * [Feynman:Gravity](http://www.feynmanlectures.caltech.edu/I_07.html)
+
+
+### Fluids
+* [Pascal's principle & hydraulic lifts](http://hyperphysics.phy-astr.gsu.edu/hbase/pasc.html)
+* [Archimedes' Force](http://hyperphysics.phy-astr.gsu.edu/hbase/pbuoy.html)
+* [Buoyancy](https://phet.colorado.edu/en/simulation/buoyancy)
