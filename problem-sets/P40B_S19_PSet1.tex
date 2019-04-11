@@ -1,0 +1,124 @@
+%% LaTeX2e Template by Stephen Iota (https://stepheniota.com/)
+%% last updated: Feb. 2019
+%% for papers
+%\documentclass[aps,preprint,notitlepage]{revtex4-1}
+%% https://www-d0.fnal.gov/Run2Physics/WWW/templates/revtex4.pdf
+%% https://cdn.journals.aps.org/files/revtex/auguide4-1.pdf
+%% ^^ revTeX4-1 class options
+
+%% for other
+\documentclass[11pt]{article}
+\usepackage{geometry} % let's be honest, standard LaTeX margins are GaRbagE for most purposes
+%%%%%%%%%%%%%%%%
+%%% Packages %%%
+%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+\usepackage[noadjust]{cite}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{physics} %http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/physics/physics.pdf
+\usepackage[thinc]{esdiff} % easy derivatives
+\usepackage{graphicx} % \includegraphics{ }
+\usepackage[shortlabels]{enumitem} % change labels in enum/item environments
+\usepackage[dvipsnames]{xcolor} % colored links=
+%\usepackage{footmisc} % http://mirror.utexas.edu/ctan/macros/latex/contrib/footmisc/footmisc.pdf
+%\usepackage[small]{titlesec} % [small,medium,big] << controls size of *section text
+%\usepackage{fancyhdr} %http://tug.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/fancyhdr.pdf
+% always put this at the end
+\usepackage[
+	colorlinks=true,
+	citecolor=NavyBlue!90!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref}
+
+ %%%%%%%%%%%%%%%%%%
+ %% New Commands %%
+ %%%%%%%%%%%%%%%%%%
+\newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
+
+
+%%%%%%%%%%%%%%%%%%
+%% Front Matter %%
+%%%%%%%%%%%%%%%%%%
+
+%\pagenumbering{gobble} % no page numbers
+%\graphicspath{{figures/}} % set directory for figures
+\setcounter{section}{-1} % start with section 0
+
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+
+\Large{\textsc{PSet 1}: \textbf{Theory of Gravitation}}
+\end{center}
+\vspace{.5mm}
+
+
+%%%%%%%%%%
+%% INFO %%
+%%%%%%%%%%
+
+\begin{tabular}{rl}
+\textsc{SI Leader}:
+&
+Stephen Iota (\email{siota001@ucr.edu})
+\\
+\textsc{Course}:
+&
+Physics 40B (Spring 2019), Prof.~Barsukov
+\\
+\textsc{Date}:
+&
+\today
+\end{tabular}
+
+%%%%%%%%%%%%%%
+%% PROBLEMS %%
+%%%%%%%%%%%%%%
+
+
+\section{Conceptual Questions}
+
+\begin{enumerate}[(i)]
+	\item Explain \textit{why} the gravitational potential energy between two masses is negative. Note: saying ``because that's what the equation gives'' is \textit{not} a valid answer. 
+	\item The escape speed from Planet X is 10,000 m/s. Planet Y has the same radius as Planet X, but is twice as dense. What is the escape speed from Planet Y?
+	\item Explain what is a geosynchronous orbit is, and explain what are the necessary conditions for such an orbit. 
+\end{enumerate}
+
+\section{Newton's Law of Gravitation}
+
+A 20 kg sphere is at the origin and a 10 kg sphere is at x = 20 cm. At what position on the $x$-axis could you place a small mass such that the net gravitational force on it due to the spheres is zero?
+ 
+ 
+ 
+ \section{Geosynchronous orbits on Mars}
+ What are the speed and height of a geosynchronous satellite orbiting Mars? Mars rotates about its axis every 24.8 hours. 
+
+
+\section{Orbital Energetics}
+
+Show that, for a satellite in a circular orbit, $K = -\frac{1}{2} U_G$.
+
+
+\section{Raising a satellite}
+How much work must be done to boost a 1000 kg communications satellite from a low earth orbit with $h = 300$ km to a geosynchronous orbit?
+
+
+
+\section{Schwarzschild radius}
+
+Nothing can escape the \textit{event horizon} of a black hole, not even light. You can think of the event horizon as being the distance from a black hole at which the escape speed is the speed of light $c = 3\text{e}8$ m/s, making all escapes impossible. What is the radius of the event horizon for a black hole with a mass 5.0 times the mass of the sun? This distance is called the \textit{Schwarzschild radius}.
+
+
+
+
+
+\end{document}
