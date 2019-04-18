@@ -30,7 +30,7 @@ I am simply recommending resources I found useful and interesting when I was tak
 Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
 
 * [PSet 1: Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
-
+* [PSet 2: Fluids](./problem-sets/P40B_S19_PSet2.pdf)
 
 
 ### Theory of Gravitation readings
