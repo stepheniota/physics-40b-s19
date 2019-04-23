@@ -24,7 +24,8 @@ Feel free to contact me with any questions!
 **DISCLAIMER**: these are *NOT* a substitute for attending lecture or the professor's assigned readings/assignments!
 I am simply recommending resources I found useful and interesting when I was taking 40B and other related courses.
 
-
+### Important formulae
+* [Physics 40B Formulae](./P40B_Formulae.pdf)
 
 ### Problem sets
 Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
