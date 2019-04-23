@@ -25,6 +25,7 @@ Feel free to contact me with any questions!
 I am simply recommending resources I found useful and interesting when I was taking 40B and other related courses.
 
 ### Important formulae
+Frequently updated
 * [Physics 40B Formulae](./P40B_Formulae.pdf)
 
 ### Problem sets
@@ -43,3 +44,10 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [Pascal's principle & hydraulic lifts](http://hyperphysics.phy-astr.gsu.edu/hbase/pasc.html)
 * [Archimedes' Force](http://hyperphysics.phy-astr.gsu.edu/hbase/pbuoy.html)
 * [Buoyancy](https://phet.colorado.edu/en/simulation/buoyancy)
+
+
+### Simple Harmonic Oscillations
+* [Feynman:SHO](http://www.feynmanlectures.caltech.edu/I_21.html)
+* [Wiki:SHO](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
+* [Energy of SHO](https://www.youtube.com/watch?v=nvc78QWnDH4)
+* [Differential Equations: HO](https://www.youtube.com/watch?v=sxzFpOsvfgU)
