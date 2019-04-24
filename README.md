@@ -13,7 +13,7 @@ Physics 40B: *Gen. Phys. II* <br/>
 
 **SI Sessions**<br/>
 T 2 -- 3 pm in Skye 110<br/>
-W 2 -- 3 pm in Skye 108<br/>
+W 2 -- 3 pm in Skye 113<br/>
 F 11 -- 12 noon in Skye 112 (*times updated 04/24*)<br/>
 **Lecture**<br/>
 Dr. Barsukov; TR 12:40 -- 2 pm in Physics 2000
