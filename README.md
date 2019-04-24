@@ -12,8 +12,9 @@ Physics 40B: *Gen. Phys. II* <br/>
 [Syllabus](./syllabus/2019s-p40b-syllabus.pdf)
 
 **SI Sessions**<br/>
-TR 2 -- 3 pm in Skye 110<br/>
-W  2 -- 3 pm in Skye 108<br/>
+T 2 -- 3 pm in Skye 110<br/>
+W 2 -- 3 pm in Skye 108<br/>
+F 11 -- 12 noon in Skye 112 (*times updated 04/24*)<br/>
 **Lecture**<br/>
 Dr. Barsukov; TR 12:40 -- 2 pm in Physics 2000
 
@@ -22,9 +23,9 @@ Feel free to contact me with any questions!
 ---
 ## Supplemental materials
 **DISCLAIMER**: these are *NOT* a substitute for attending lecture or the professor's assigned readings/assignments!
-I am simply recommending resources I found useful and interesting when I was taking 40B and other related courses.
+I am simply recommending resources I found useful when I was taking 40B and other related courses.
 
-### Important formulae
+### Unofficial Formula Sheet
 Frequently updated
 * [Physics 40B Formulae](./P40B_Formulae.pdf)
 

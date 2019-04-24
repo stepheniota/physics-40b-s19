@@ -7,9 +7,8 @@
 %% ^^ revTeX4-1 class options
 
 %% for other
-\documentclass[11pt]{article}
-\usepackage{geometry} % let's be honest, standard LaTeX margins are GaRbagE for most purposes
-%%%%%%%%%%%%%%%%
+\documentclass[10pt]{article}
+\usepackage{geometry}
 %%% Packages %%%
 %%%%%%%%%%%%%%%%
 
@@ -20,7 +19,7 @@
 \usepackage{amssymb}
 \usepackage{amsfonts}
 \usepackage{physics} %http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/physics/physics.pdf
-\usepackage[thinc]{esdiff} % easy derivatives
+%\usepackage[thinc]{esdiff} % easy derivatives
 %\usepackage{graphicx} % \includegraphics{ }
 \usepackage[shortlabels]{enumitem} % change labels in enum/item environments
 \usepackage[dvipsnames]{xcolor} % colored links=
@@ -87,6 +86,8 @@ Physics 40B (Spring 2019), Prof.~Barsukov
 \section{General relationships}
 
 \begin{align*}
+\vb{F}_{\text{net}} &= m\dv[2]{\vb{x}}{t}
+&
 \vb{F} &= -\grad{U}
 &
 U &= -\int \vb{F} \text{d}x
@@ -94,6 +95,8 @@ U &= -\int \vb{F} \text{d}x
 K &= \frac{p^2}{2m}
 &
 a_r &= \frac{v^2}{r}
+&
+W &= -\Delta U
 \end{align*}
 
 
@@ -119,15 +122,15 @@ T^2 &= \frac{4\pi^2}{GM}r^3
 
 \begin{align*}
 P &= \frac{F}{A}
-\\
+&
 P &= P_0 + \rho gd
 \\
 F_1 &= \frac{A_1}{A_2} F_2 + \rho ghA_1
-\\
+&
 F_B &= \rho_f V_fg
 \\
 v_1A_1 &= v_2A_2
-\\
+&
 P + 1/2\rho v^2 + \rho gh &= \text{constant}
 \end{align*}
 
@@ -135,6 +138,19 @@ P + 1/2\rho v^2 + \rho gh &= \text{constant}
 
 
 \section{Oscillations}
+
+\begin{align*}
+x(t) &= A\sin{wt+\phi}
+&
+\omega &= \sqrt{k/m}
+\\
+v_{\text{max}} &= A\omega
+&
+T &= 2\pi \sqrt{m/k}
+&
+U &= 1/2kx^2
+\end{align*}
+
 
 
 \end{document}
