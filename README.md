@@ -34,6 +34,7 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 
 * [PSet 1: Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
 * [PSet 2: Fluids](./problem-sets/P40B_S19_PSet2.pdf)
+* [PSet 3: Oscillations](./problem-sets/P40B_PSet3.pdf)
 
 
 ### Theory of Gravitation readings

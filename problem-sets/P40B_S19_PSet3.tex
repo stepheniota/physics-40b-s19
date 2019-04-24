@@ -1,0 +1,126 @@
+%% LaTeX2e Template by Stephen Iota (https://stepheniota.com/)
+%% last updated: Feb. 2019
+%% for papers
+%\documentclass[aps,preprint,notitlepage]{revtex4-1}
+%% https://www-d0.fnal.gov/Run2Physics/WWW/templates/revtex4.pdf
+%% https://cdn.journals.aps.org/files/revtex/auguide4-1.pdf
+%% ^^ revTeX4-1 class options
+
+%% for other
+\documentclass[12pt]{article}
+\usepackage{geometry} % let's be honest, standard LaTeX margins are GaRbagE for most purposes
+%%%%%%%%%%%%%%%%
+%%% Packages %%%
+%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+\usepackage[noadjust]{cite}
+%\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{physics} %http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/physics/physics.pdf
+\usepackage[thinc]{esdiff} % easy derivatives
+\usepackage{graphicx} % \includegraphics{ }
+\usepackage[shortlabels]{enumitem} % change labels in enum/item environments
+\usepackage[dvipsnames]{xcolor} % colored links=
+%\usepackage{footmisc} % http://mirror.utexas.edu/ctan/macros/latex/contrib/footmisc/footmisc.pdf
+%\usepackage[small]{titlesec} % [small,medium,big] << controls size of *section text
+%\usepackage{fancyhdr} %http://tug.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/fancyhdr.pdf
+% always put this at the end
+\usepackage[
+	colorlinks=true,
+	citecolor=NavyBlue!90!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref}
+
+ %%%%%%%%%%%%%%%%%%
+ %% New Commands %%
+ %%%%%%%%%%%%%%%%%%
+\newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
+
+
+%%%%%%%%%%%%%%%%%%
+%% Front Matter %%
+%%%%%%%%%%%%%%%%%%
+
+%\pagenumbering{gobble} % no page numbers
+\graphicspath{{figures/}} % set directory for figures
+%\setcounter{section}{-1} % start with section 0
+
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+
+\Large{\textsc{PSet 3}: \textbf{Simple Harmonic Motion}}
+\end{center}
+\vspace{.5mm}
+
+
+%%%%%%%%%%
+%% INFO %%
+%%%%%%%%%%
+
+\begin{tabular}{rl}
+\textsc{SI Leader}:
+&
+Stephen Iota (\email{siota001@ucr.edu})
+\\
+\textsc{Course}:
+&
+Physics 40B (Spring 2019), Prof.~Barsukov
+\\
+\textsc{Date}:
+&
+\today
+\end{tabular}
+
+%%%%%%%%%%%%%%
+%% PROBLEMS %%
+%%%%%%%%%%%%%%
+
+\section{Phenomenology}
+\begin{enumerate}[(a)]
+	\item Explain what an \textit{eigenfrequency} is.
+	\item Consider a mass $m$ on a spring with a force constant $k$. If I increase the mass, what happens to the spring's eigenfrequency? 
+	\item What happens to the eigenfrequency if I decrease the spring constant $k$?
+	\item Is $\cos{x}$ an even or odd function? What does that mean? How about $\sin{x}$?
+\end{enumerate}
+
+
+
+
+\section{Describing SHM}
+
+Consider an oscillator described by $$\dv[2]{x}{t} = - \frac{k}{m}x(t).$$
+Derive the following quantities:
+\begin{enumerate}[(a)]
+\item position $x(t)$
+\item velocity $v(t)$
+\item acceleration $a(t)$
+\item angular frequency $\omega$
+\item period $T$
+\item potential energy $U$
+\end{enumerate}
+
+
+
+Using what you just derived, what would happen to a spring's maximum speed if its total energy is doubled? 
+
+
+\section{The dynamics of SHM}
+\begin{enumerate}[(a)]
+	\item The motion of a particle is given by $x(t) = (25 \text{cm})\cos{10t}$, where $t$ is in seconds. What is the first time at which the kinetic energy is twice the potential energy? 
+	\vspace{60mm}
+	\item A spring is standing upright on a table with its bottom end fastened to the table. A block is dropped from a height 3.0 cm above the top of the spring. The block sticks to the top end of the spring and then oscillates with an amplitude of 10 cm. What is the oscillation frequency?
+\end{enumerate}
+
+
+
+
+\end{document}
