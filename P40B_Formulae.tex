@@ -7,7 +7,7 @@
 %% ^^ revTeX4-1 class options
 
 %% for other
-\documentclass[10pt]{article}
+\documentclass[11pt]{article}
 \usepackage{geometry}
 %%% Packages %%%
 %%%%%%%%%%%%%%%%
@@ -94,9 +94,13 @@ U &= -\int \vb{F} \text{d}x
 \\
 K &= \frac{p^2}{2m}
 &
-a_r &= \frac{v^2}{r}
+a_\phi &= v^2/r
 &
 W &= -\Delta U
+\\
+\omega &= 2\pi f
+&
+T &= 1/f
 \end{align*}
 
 
@@ -140,9 +144,11 @@ P + 1/2\rho v^2 + \rho gh &= \text{constant}
 \section{Oscillations}
 
 \begin{align*}
-x(t) &= A\sin{wt+\phi}
+x(t) &= A\cos{wt+\phi}
 &
 \omega &= \sqrt{k/m}
+&
+\vb{F} &= -k\vb{x}
 \\
 v_{\text{max}} &= A\omega
 &

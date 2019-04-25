@@ -16,14 +16,15 @@ T 2 -- 3 pm in Skye 110<br/>
 W 2 -- 3 pm in Skye 113<br/>
 F 11 -- 12 noon in Skye 112 (*times updated 04/24*)<br/>
 **Lecture**<br/>
-Dr. Barsukov; TR 12:40 -- 2 pm in Physics 2000
+Dr. Barsukov<br/>
+TR 12:40 -- 2 pm in Physics 2000
 
 Feel free to contact me with any questions!
 
 ---
 ## Supplemental materials
-**DISCLAIMER**: these are *NOT* a substitute for attending lecture or the professor's assigned readings/assignments!
-I am simply recommending resources I found useful when I was taking 40B and other related courses.
+**DISCLAIMER**: these are *not* a substitute for attending lecture or the professor's assigned readings/assignments!
+I am simply recommending resources I found useful when I was taking 40B.
 
 ### Unofficial Formula Sheet
 Frequently updated
@@ -37,7 +38,7 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [PSet 3: Oscillations](./problem-sets/P40B_S19_PSet3.pdf)
 
 
-### Theory of Gravitation readings
+### Theory of Gravitation
 * [Wiki:Gravity](https://en.wikipedia.org/wiki/Gravity)
 * [Feynman:Gravity](http://www.feynmanlectures.caltech.edu/I_07.html)
 
