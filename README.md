@@ -12,9 +12,9 @@ Physics 40B: *Gen. Phys. II* <br/>
 [Syllabus](./syllabus/2019s-p40b-syllabus.pdf)
 
 **SI Sessions**<br/>
-T 2 -- 3 pm in Skye 110<br/>
-W 2 -- 3 pm in Skye 113<br/>
-F 11 -- 12 noon in Skye 112 (*times updated 04/24*)<br/>
+Tue 2 -- 3 pm in Skye 110<br/>
+Wed 2 -- 3 pm in Skye 113<br/>
+Fri 11 -- 12 noon in Skye 112 (*times updated 04/24*)<br/>
 **Lecture**<br/>
 Dr. Barsukov<br/>
 TR 12:40 -- 2 pm in Physics 2000
@@ -37,20 +37,27 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [PSet 2: Fluids](./problem-sets/P40B_S19_PSet2.pdf)
 * [PSet 3: Oscillations](./problem-sets/P40B_S19_PSet3.pdf)
 
-
-### Theory of Gravitation
+### Readings
+#### Theory of Gravitation
 * [Wiki:Gravity](https://en.wikipedia.org/wiki/Gravity)
 * [Feynman:Gravity](http://www.feynmanlectures.caltech.edu/I_07.html)
 
 
-### Fluids
+#### Fluids
 * [Pascal's principle & hydraulic lifts](http://hyperphysics.phy-astr.gsu.edu/hbase/pasc.html)
 * [Archimedes' Force](http://hyperphysics.phy-astr.gsu.edu/hbase/pbuoy.html)
 * [Buoyancy](https://phet.colorado.edu/en/simulation/buoyancy)
 
 
-### Simple Harmonic Oscillations
+#### Oscillations
 * [Feynman:SHO](http://www.feynmanlectures.caltech.edu/I_21.html)
 * [Wiki:SHO](https://en.wikipedia.org/wiki/Simple_harmonic_motion)
+* [Wiki:Oscillations](https://en.wikipedia.org/wiki/Oscillation)
 * [Energy of SHO](https://www.youtube.com/watch?v=nvc78QWnDH4)
 * [Differential Equations: HO](https://www.youtube.com/watch?v=sxzFpOsvfgU)
+* [Feynman:Resonance](http://www.feynmanlectures.caltech.edu/I_23.html) *advanced*
+
+#### Traveling Waves
+* [Doc Schuster:traveling waves](https://www.youtube.com/watch?v=GxAyRJjCAsQ\)
+* [MIT:traveling waves](https://www.youtube.com/watch?v=SnNmbVH5DAM)
+* [Definition & explanation](https://www.youtube.com/watch?v=2sO-L3F9X_k)
