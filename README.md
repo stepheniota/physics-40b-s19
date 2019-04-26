@@ -1,4 +1,4 @@
-# [Physics 40B Spring 2019 (UCR)](https://stepheniota.com/physics-40a-w19)
+# [Physics 40B Spring 2019 (UCR)](https://stepheniota.com/physics-40b-s19)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
