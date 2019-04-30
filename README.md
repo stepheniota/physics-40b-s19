@@ -28,7 +28,7 @@ I am simply recommending resources I found useful when I was taking 40B.
 
 ### Unofficial Formula Sheet
 Frequently updated
-* [Physics 40B Formulae](./P40B_Formulae.pdf)
+* [Physics 40B Formulae](./formulae/P40B_Formulae.pdf)
 
 ### Problem sets
 Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
