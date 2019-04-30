@@ -33,9 +33,11 @@ Frequently updated
 ### Problem sets
 Presented without solution for obvious reasons. Problems reflect only part of SI sessions; they do not include the questions and discussions with students. The most meaningful parts of SI sessions are unscripted.
 
-* [PSet 1: Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
-* [PSet 2: Fluids](./problem-sets/P40B_S19_PSet2.pdf)
-* [PSet 3: Oscillations](./problem-sets/P40B_S19_PSet3.pdf)
+* PSet 1: [Theory of Gravitation](./problem-sets/P40B_S19_PSet1.pdf)
+* PSet 2: [Fluids](./problem-sets/P40B_S19_PSet2.pdf)
+* PSet 3: [Oscillations](./problem-sets/P40B_S19_PSet3.pdf)
+* PSet 4: [Traveling waves](./problem-sets/P40B_S19_PSet4.pdf)
+
 
 ### Readings
 #### Theory of Gravitation
