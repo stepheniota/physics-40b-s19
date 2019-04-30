@@ -1,0 +1,182 @@
+%% LaTeX2e Template by Stephen Iota (https://stepheniota.com/)
+%% last updated: Feb. 2019
+%% for papers
+%\documentclass[aps,preprint,notitlepage]{revtex4-1}
+%% https://www-d0.fnal.gov/Run2Physics/WWW/templates/revtex4.pdf
+%% https://cdn.journals.aps.org/files/revtex/auguide4-1.pdf
+%% ^^ revTeX4-1 class options
+
+%% for other
+\documentclass[10pt]{article}
+\usepackage[margin=2.5cm]{geometry}
+%%% Packages %%%
+%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+\usepackage[noadjust]{cite}
+%\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{physics} %http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/physics/physics.pdf
+%\usepackage[thinc]{esdiff} % easy derivatives
+%\usepackage{graphicx} % \includegraphics{ }
+\usepackage[shortlabels]{enumitem} % change labels in enum/item environments
+\usepackage[dvipsnames]{xcolor} % colored links=
+%\usepackage{footmisc} % http://mirror.utexas.edu/ctan/macros/latex/contrib/footmisc/footmisc.pdf
+%\usepackage[small]{titlesec} % [small,medium,big] << controls size of *section text
+%\usepackage{fancyhdr} %http://tug.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/fancyhdr.pdf
+% always put this at the end
+\usepackage[
+	colorlinks=true,
+	citecolor=NavyBlue!90!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref}
+
+ %%%%%%%%%%%%%%%%%%
+ %% New Commands %%
+ %%%%%%%%%%%%%%%%%%
+\newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
+
+
+%%%%%%%%%%%%%%%%%%
+%% Front Matter %%
+%%%%%%%%%%%%%%%%%%
+
+%\pagenumbering{gobble} % no page numbers
+%\graphicspath{{figures/}} % set directory for figures
+\setcounter{section}{-1} % start with section 0
+
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+
+\Large{\textsc{Phys040B}: \textbf{Unofficial Formula Sheet}}
+\end{center}
+\vspace{.5mm}
+
+
+%%%%%%%%%%
+%% INFO %%
+%%%%%%%%%%
+
+\begin{tabular}{rl}
+\textsc{Created by}:
+&
+Stephen Iota (\email{siota001@ucr.edu})
+\\
+%\textsc{Course}:
+%&
+%Physics 40B (Spring 2019), Prof.~Barsukov
+%\\
+\textsc{Last updated}:
+&
+\today
+\end{tabular}
+
+%%%%%%%%%%%%%%
+%% PROBLEMS %%
+%%%%%%%%%%%%%%
+
+\section{General relationships}
+
+\begin{align*}
+\vb{F}_{\text{net}} &= m\dv[2]{\vb{x}}{t}
+&
+\vb{F} &= -\grad{U}
+&
+U &= -\int \vb{F} \text{d}x
+\\
+K &= \frac{p^2}{2m}
+&
+a_\phi &= v^2/r
+&
+W &= -\Delta U
+\\
+\omega &= 2\pi f
+&
+T &= 1/f
+&
+k &= 2\pi/\lambda
+\end{align*}
+
+
+
+\section{Gravitation}
+
+\begin{align*}
+\vb{F} &= \frac{Gm_1m_2}{r^2} \ \hat{r}
+&
+U &= -\frac{Gm_1m_2}{r}
+\\
+v &= \sqrt{GM/r}
+&
+T^2 &= \frac{4\pi^2}{GM}r^3
+\\
+\end{align*}
+
+
+
+
+\section{Fluids}
+
+
+\begin{align*}
+P &= \frac{F}{A}
+&
+P &= P_0 + \rho gd
+\\
+F_1 &= \frac{A_1}{A_2} F_2 + \rho ghA_1
+&
+F_B &= \rho_f V_fg
+\\
+v_1A_1 &= v_2A_2
+&
+P + 1/2\rho v^2 + \rho gh &= \text{constant}
+\end{align*}
+
+
+
+
+\section{Oscillations}
+
+\begin{align*}
+x(t) &= A\cos{wt+\phi}
+&
+\omega &= \sqrt{k/m}
+&
+\vb{F} &= -k\vb{x}
+\\
+v_{\text{max}} &= A\omega
+&
+T &= 2\pi \sqrt{m/k}
+&
+U &= 1/2kx^2
+\end{align*}
+
+
+\section{Traveling waves}
+
+\begin{align*}
+v_{\text{string}} &= \sqrt{T_s/\mu}
+&
+\mu &= m/L
+&
+v &= \lambda f
+\\
+\omega &= vk
+&
+D(x,t) &= A\cos{(kx + \omega t +\phi)}
+&
+\pdv[2]{D}{t} &= \frac{T_s}{\mu}\pdv[2]{D}{x}
+\end{align*}
+
+
+
+
+\end{document}
