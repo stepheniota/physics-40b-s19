@@ -60,6 +60,6 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [Feynman:Resonance](http://www.feynmanlectures.caltech.edu/I_23.html) *advanced*
 
 #### Traveling Waves
-* [Doc Schuster:traveling waves](https://www.youtube.com/watch?v=GxAyRJjCAsQ\)
+* [Doc Schuster:traveling waves](https://www.youtube.com/watch?v=GxAyRJjCAsQ)
 * [MIT:traveling waves](https://www.youtube.com/watch?v=SnNmbVH5DAM)
 * [Definition & explanation](https://www.youtube.com/watch?v=2sO-L3F9X_k)
