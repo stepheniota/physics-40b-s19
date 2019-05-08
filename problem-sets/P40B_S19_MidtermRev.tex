@@ -1,0 +1,146 @@
+%% LaTeX2e Template by Stephen Iota (https://stepheniota.com/)
+%% last updated: Feb. 2019
+%% for papers
+%\documentclass[aps,preprint,notitlepage]{revtex4-1}
+%% https://www-d0.fnal.gov/Run2Physics/WWW/templates/revtex4.pdf
+%% https://cdn.journals.aps.org/files/revtex/auguide4-1.pdf
+%% ^^ revTeX4-1 class options
+
+%% for other
+\documentclass[11pt]{article}
+\usepackage{geometry} % let's be honest, standard LaTeX margins are GaRbagE for most purposes
+%%%%%%%%%%%%%%%%
+%%% Packages %%%
+%%%%%%%%%%%%%%%%
+
+\usepackage[utf8]{inputenc}
+\usepackage[noadjust]{cite}
+%\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{physics} %http://ftp.math.purdue.edu/mirrors/ctan.org/macros/latex/contrib/physics/physics.pdf
+\usepackage[thinc]{esdiff} % easy derivatives
+\usepackage{graphicx} % \includegraphics{ }
+\usepackage[shortlabels]{enumitem} % change labels in enum/item environments
+\usepackage[dvipsnames]{xcolor} % colored links=
+%\usepackage{footmisc} % http://mirror.utexas.edu/ctan/macros/latex/contrib/footmisc/footmisc.pdf
+%\usepackage[small]{titlesec} % [small,medium,big] << controls size of *section text
+%\usepackage{fancyhdr} %http://tug.ctan.org/tex-archive/macros/latex/contrib/fancyhdr/fancyhdr.pdf
+% always put this at the end
+\usepackage[
+	colorlinks=true,
+	citecolor=NavyBlue!90!black,
+	linkcolor=NavyBlue!75!black,
+	urlcolor=green!50!black,
+	hypertexnames=false]{hyperref}
+
+ %%%%%%%%%%%%%%%%%%
+ %% New Commands %%
+ %%%%%%%%%%%%%%%%%%
+\newcommand{\email}[1]{\texttt{\href{mailto:#1}{#1}}}
+
+
+%%%%%%%%%%%%%%%%%%
+%% Front Matter %%
+%%%%%%%%%%%%%%%%%%
+
+\pagenumbering{gobble} % no page numbers
+\graphicspath{{figures/}} % set directory for figures
+%\setcounter{section}{-1} % start with section 0
+
+
+%%%%%%%%%%%%%
+%%% Title %%%
+%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+
+\Large{\textbf{Midterm Review}}
+\end{center}
+\vspace{.5mm}
+
+
+%%%%%%%%%%
+%% INFO %%
+%%%%%%%%%%
+
+\begin{tabular}{rl}
+\textsc{SI Leader}:
+&
+Stephen Iota (\email{siota001@ucr.edu})
+\\
+\textsc{Course}:
+&
+Physics 40B (Spring 2019), Prof.~Barsukov
+\\
+\textsc{Date}:
+&
+\today
+\end{tabular}
+
+%%%%%%%%%%%%%%
+%% PROBLEMS %%
+%%%%%%%%%%%%%%
+
+
+\section{Conceptual questions}
+
+\subsection{Oscillations}
+
+\begin{enumerate}[(a)]
+	\item Explain what an \emph{eigenfrequency} is.
+	\item Consider a mass $m$ on a spring with constant $k$. What will happen to the spring's   eigenfrequency if the spring constant is doubled?
+	\item For a simple oscillator, when is potential energy maximum and when is kinetic energy maximum?
+\end{enumerate}
+
+
+
+
+
+
+\subsection{Traveling waves}
+\begin{enumerate}[(a)]
+	\item What is the main requirement in order for a traveling wave to propoage?
+	\item What is being propoaged in traveling waves?
+	\item How do we define wave velocity? What does it depend upon?
+\end{enumerate}
+
+
+
+
+
+
+
+\section{Sinusoidal traveling waves}
+A very long string with $\mu = 2.0$ g/m is streched along the $x$-axis with a tension of 5.0 N. At $x=0$ m, it is tied to a 100 Hz simple harmonic oscillator that vibrates perpendicular to the string with an amplitude of 2.0 mm. The oscillator is at maximum displacement initially.
+
+\begin{enumerate}[(a)]
+	\item Write the displacement equation for the traveling wave on a string
+	\item At $t = 5.0$ ms, what is the string's displacement at a point 2.7 m from the oscillator?
+\end{enumerate}
+
+
+\section{Waves in two dimensions}
+
+A circular wave travels outward from the origin. At one instant of time, the phase at $r_1 = 20$ cm is $0$ rad and the phase at $r_2 = 3\pi$ rad. What is the wavelength of this wave?
+
+
+
+\section{The dopler effect}
+
+A mother hawk screeches as she dives at you. You recall from biology that female hawks screech at 800 Hz, but you hear the screech at 900 Hz. How fast is the hawk approaching?
+
+
+
+\section{Dynamics of SHM}
+
+A spring is standing upright on a table with its bottom end fastened to the table. A block is dropped from a height 3.0 cm above the top of the spring. The block sticks to the top end of the spring and then oscillates with an amplitude of 10 cm. What is the oscillation frequency?
+
+
+
+
+
+
+\end{document}
