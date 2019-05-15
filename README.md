@@ -38,7 +38,7 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * PSet 3: [Oscillations](./problem-sets/P40B_S19_PSet3.pdf)
 * PSet 4: [Traveling waves](./problem-sets/P40B_S19_PSet4.pdf)
 * [Midterm Review](./problem-sets/P40B_S19_MidtermRev.pdf)
-
+* PSet 5: [Superposition and standing waves](./problem-sets/P40B_S19_PSet5.pdf)
 
 ### Readings
 #### Theory of Gravitation
