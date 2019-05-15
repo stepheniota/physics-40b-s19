@@ -23,4 +23,6 @@ P40B_S19_MidtermRev.pdf: P40B_S19_MidtermRev.tex
 .PHONY: clean
 
 clean:
-	rm *aux *out *log #*fls *latexmk
+	rm *aux *out *log 
+clean-f: 
+	rm *fls *latexmk *gz

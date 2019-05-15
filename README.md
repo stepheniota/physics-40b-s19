@@ -64,3 +64,8 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [Doc Schuster:traveling waves](https://www.youtube.com/watch?v=GxAyRJjCAsQ)
 * [MIT:traveling waves](https://www.youtube.com/watch?v=SnNmbVH5DAM)
 * [Definition & explanation](https://www.youtube.com/watch?v=2sO-L3F9X_k)
+
+
+#### Superposition
+* [Waves at a discontinuity](http://physics.usask.ca/~hirose/ep225/animation/reflection/anim-reflection.html)
+* (https://www.acs.psu.edu/drussell/Demos/reflect/reflect.html)
