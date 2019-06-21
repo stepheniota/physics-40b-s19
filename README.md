@@ -39,6 +39,12 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * PSet 4: [Traveling waves](./problem-sets/P40B_S19_PSet4.pdf)
 * [Midterm Review](./problem-sets/P40B_S19_MidtermRev.pdf)
 * PSet 5: [Superposition and standing waves](./problem-sets/P40B_S19_PSet5.pdf)
+* PSet 6: [Intro to thermodynamics](./problem-sets/P40B_S19_PSet6.pdf)
+
+### Final review materials
+* [Stephen's problems](./final-review/Problems-Stephen.pdf)
+* [Cindy's problems](./final-review/Problems-Cindy.pdf)
+* [DocCam notes](./final-review/P40B_FinalReviewNotes.pdf)
 
 ### Readings
 #### Theory of Gravitation
@@ -60,6 +66,7 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 * [Differential Equations: HO](https://www.youtube.com/watch?v=sxzFpOsvfgU)
 * [Feynman:Resonance](http://www.feynmanlectures.caltech.edu/I_23.html) *advanced*
 
+
 #### Traveling Waves
 * [Doc Schuster:traveling waves](https://www.youtube.com/watch?v=GxAyRJjCAsQ)
 * [MIT:traveling waves](https://www.youtube.com/watch?v=SnNmbVH5DAM)
@@ -69,3 +76,5 @@ Presented without solution for obvious reasons. Problems reflect only part of SI
 #### Superposition
 * [Waves at a discontinuity](http://physics.usask.ca/~hirose/ep225/animation/reflection/anim-reflection.html)
 * (https://www.acs.psu.edu/drussell/Demos/reflect/reflect.html)
+
+#### Thermodynamics
